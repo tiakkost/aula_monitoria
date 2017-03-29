@@ -1,0 +1,30 @@
+tcs7@G4C30 MINGW64 ~
+$ mkdir TCS
+
+tcs7@G4C30 MINGW64 ~
+$ cd TCS
+
+tcs7@G4C30 MINGW64 ~/TCS
+$ git init [DiscoveryRec]
+Initialized empty Git repository in C:/Users/tcs7/TCS/[DiscoveryRec]/.git/
+
+tcs7@G4C30 MINGW64 ~/TCS
+$ ls
+[DiscoveryRec]/
+
+tcs7@G4C30 MINGW64 ~/TCS
+$ cd .git
+bash: cd: .git: No such file or directory
+
+tcs7@G4C30 MINGW64 ~/TCS
+$ git init
+Initialized empty Git repository in C:/Users/tcs7/TCS/.git/
+
+tcs7@G4C30 MINGW64 ~/TCS (master)
+$ touch text.txt
+
+tcs7@G4C30 MINGW64 ~/TCS (master)
+$ notepad text.txt
+unix2dos: text.txt MODE 0100644  (regular file)
+unix2dos: using ./d2utmpwyuP3S as temporary file
+unix2dos: converting file text.txt to DOS format...
